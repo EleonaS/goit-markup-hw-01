@@ -1,4 +1,4 @@
-{
+{               
   "printWidth": 120,
   "tabWidth": 2,
   "useTabs": false,
@@ -15,5 +15,7 @@
   "requirePragma": false,
   "semi": false,
   "vueIndentScriptAndStyle": false,
-  "singleAttributePerLine": false
-}
+  "singleAttributePerLine": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+
